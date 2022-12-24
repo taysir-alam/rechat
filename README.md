@@ -1,1 +1,1 @@
-a little chat app :) 
+a little chat app I made with React, Redux & Sockets! :) 
